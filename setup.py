@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='p_color',
-    version='0.1.3',
+    version='0.1.4',
     author="Rashe",
     description="Color your print()",
     long_description=open("README.md").read(),

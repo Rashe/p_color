@@ -1,7 +1,7 @@
 from .color import Color
 
-p_color = Color()
+cprint = Color()
 
 __all__ = [
-    'p_color'
+    'cprint'
 ]

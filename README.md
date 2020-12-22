@@ -1,9 +1,9 @@
 # Color your print()
 
-Install `p_color` :
+Install `prcolor` :
 
 ```
-pip install p_color
+pip install prcolor
 ```
 
 Usage:
